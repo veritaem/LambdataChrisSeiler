@@ -1,0 +1,6 @@
+README.md
+setup.py
+LambdataChrisSeiler.egg-info/PKG-INFO
+LambdataChrisSeiler.egg-info/SOURCES.txt
+LambdataChrisSeiler.egg-info/dependency_links.txt
+LambdataChrisSeiler.egg-info/top_level.txt
