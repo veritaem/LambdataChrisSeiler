@@ -1,2 +1,2 @@
 # LambdataChrisSeiler
-Data Science utility functions
+Data Science helper/utility functions!
